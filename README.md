@@ -9,31 +9,6 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
-
-
-## 🛠 Skills & Technologies
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-- **Development**
-  - **Languages**: Shell, C++, Java, Python
-  - **Frameworks**:
-    - **Frontend**: UX/UI, ReactJS, NextJS, Flutter
-    - **Backend**: Spring Boot, FastAPI
-  - **Deployment Tools**: Docker, Jenkins, SonarQube, Gradle
-  - **Cloud**: AWS, Google cloud
-  - **Databases**: MongoDB, PostgreSQL
-- **Security**
-  - **Tools**: nmap, msfconsole, msfvenom, niko, burp suite, etterrcap, proxychains, etc
-  - **OSINT Tools**: netlas, maltego
-  - **OWASP TOP 10**
-  - **Report**
-- **Computer Networking**
-  - **Basic Computer Network from CCNA**
-  - **Network for interprise from CCNA**
-
-
 ## 📫 Get in Touch
 - LinkedIn: [kim-chansokpheng-linkedin](https://www.linkedin.com/in/kim-chansokpheng-6b6513267/)
 - Portfolio: [Cybersecurity Team](https://cyber-stad.vercel.app/)
